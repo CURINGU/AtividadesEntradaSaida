@@ -19,7 +19,6 @@ public class DiferencaProduto {
 		diferenca = (valores[0] * valores[1]) - (valores[2] * valores[3]);
 		
 		System.out.println("A diferença dos produtos é de: " + diferenca);
-
 	}
 
 }
