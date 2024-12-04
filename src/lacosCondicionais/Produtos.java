@@ -47,7 +47,7 @@ public class Produtos {
 				System.out.println("Código inválido!");
 		}
 		
-		System.out.println("Produto: " + nomeProd + "\nValor total: " + total);
+		System.out.println("Produto: " + nomeProd + "\nValor total: R$" + total);
 	}
 
 }
